@@ -1,0 +1,73 @@
+.front-page{
+    background-color: #1995dc;
+}
+
+.front-card{
+    position: absolute;
+    top: 25%;
+    left:23%;
+}
+
+.front-card p{
+    font-size: 21px;
+    line-height: 31px;
+    color: #fff;
+}
+
+.front-card h1{
+    color: #fff;
+    font-size: 38px;
+    line-height: 44px;
+}
+
+.front-welcome{
+    width: 60%;
+    margin: auto;
+    display: inline-block;
+}
+
+
+.front-page-form{
+    border: 1px solid #e1e8ed;
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+    width: 35%;
+    margin: auto;
+    display: inline-block;
+}
+
+.login .field{
+    margin-bottom: 5px;
+}
+
+
+.well-topR {
+  padding: 30px;
+  border-radius: 10px;
+  position: fixed;
+  top: 30%;
+  right: 60%;
+}
+
+.returnLog{
+    color: #fff;
+    font-size: 38px;
+    line-height: 44px;
+}
+
+
+footer{
+    color: #000;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+}
+
+.returnLogBlue{
+      color: #1995dc;
+    font-size: 38px;
+    line-height: 44px;
+}
+
